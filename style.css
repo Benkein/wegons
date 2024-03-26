@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+    background-image: url(img/words4wegons.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    margin: 20px;
+}
+
+img{
+    height: 250px;
+    border-radius: 100%;
+}
